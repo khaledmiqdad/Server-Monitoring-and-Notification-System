@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/System-Real--Time-critical?logo=dotnet)
 
 > A robust and extensible **C# .NET system** for real-time **server monitoring, anomaly detection**, and **live notifications** using **RabbitMQ**, **MongoDB**, and **SignalR**.  
-> Built as part of my backend training at **Foothill Technology Solutions, LLC**.
+> Built as part of my backend training at **Gaza Sky Geeks**.
 
 ---
 
